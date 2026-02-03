@@ -116,10 +116,9 @@ If you're a philosopher, legal scholar, developer, or designer interested in **m
 ## Links
 
 - 🌐 Website: https://davidkoepsell.com  
-- 📘 *The Geometry of the Good*  
-- ⚖️ *The Architecture of Justice*  
-- 🧠 Structural Ontology of Law  
-- 🎲 Everdice Realm
+- 📘 *The Geometry of the Good* https://davidkoepsell.com/TheGeometryofTheGood/  
+- 🧠 Structural Ontology of Law https://davidkoepsell.com/AStructuralOntologyOfTheLaw/ 
+- 🎲 Realm of Everdice https://realmofeverdice.com/
 
 ---
 
