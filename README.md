@@ -120,6 +120,8 @@ If you're a philosopher, legal scholar, developer, or designer interested in **m
 - 🧠 Structural Ontology of Law https://davidkoepsell.com/AStructuralOntologyOfTheLaw/ 
 - 🎲 Realm of Everdice https://realmofeverdice.com/
 
+**Keywords:** legal ontology, relational ethics, moral agency, AI ethics, agent-based simulation, institutional repair
+
 ---
 
 *Ideas are cheap. Structures that survive contact with reality are not.*
