@@ -117,7 +117,7 @@ If you're a philosopher, legal scholar, developer, or designer interested in **m
 
 - 🌐 Website: https://davidkoepsell.com  
 - 📘 *The Geometry of the Good* https://davidkoepsell.com/geometry-of-the-good.html 
-- 🧠 Structural Ontology of Law https://davidkoepsell.com/SOoL.html/ 
+- 🧠 Structural Ontology of Law https://davidkoepsell.com/SOoL.html
 - 🎲 Realm of Everdice https://realmofeverdice.com/
 
 **Keywords:** legal ontology, relational ethics, moral agency, AI ethics, agent-based simulation, institutional repair
